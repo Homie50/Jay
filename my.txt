@@ -1,0 +1,6 @@
+#usr/bin/bash
+echo "What is my name?"
+Sleep 3
+echo "My name is Jude"
+Sleep 2
+echo "Nice to meet you Jude"
